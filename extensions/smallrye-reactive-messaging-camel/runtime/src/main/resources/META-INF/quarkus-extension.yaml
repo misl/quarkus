@@ -1,0 +1,9 @@
+---
+name: "SmallRye Reactive Messaging - Camel Connector"
+metadata:
+  keywords:
+  - "camel"
+  - "reactive-camel"
+  categories:
+  - "messaging"
+  status: "preview"

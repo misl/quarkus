@@ -194,6 +194,7 @@ labelPRBasedOnFilePath:
         - integration-tests/reactive-pg-client/**/*
     area/reactive-messaging:
         - extensions/smallrye-reactive-messaging-amqp
+        - extensions/smallrye-reactive-messaging-camel
         - extensions/smallrye-reactive-messaging
         - extensions/smallrye-reactive-messaging-mqtt
         - extensions/smallrye-reactive-messaging-kafka
@@ -240,6 +241,7 @@ labelPRBasedOnFilePath:
         - extensions/smallrye-reactive-messaging-amqp/**/*
         - extensions/smallrye-reactive-messaging-kafka/**/*
         - extensions/smallrye-reactive-messaging-mqtt/**/*
+        - extensions/smallrye-reactive-messaging-camel/**/*
     area/spring:
         - extensions/spring-data-jpa/**/*
         - extensions/spring-di/**/*

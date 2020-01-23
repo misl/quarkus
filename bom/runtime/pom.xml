@@ -510,6 +510,11 @@
             </dependency>
             <dependency>
                 <groupId>io.quarkus</groupId>
+                <artifactId>quarkus-smallrye-reactive-messaging-camel</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.quarkus</groupId>
                 <artifactId>quarkus-smallrye-metrics</artifactId>
                 <version>${project.version}</version>
             </dependency>
@@ -2192,6 +2197,11 @@
             <dependency>
                 <groupId>io.smallrye.reactive</groupId>
                 <artifactId>smallrye-reactive-messaging-mqtt</artifactId>
+                <version>${smallrye-reactive-messaging.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.smallrye.reactive</groupId>
+                <artifactId>smallrye-reactive-messaging-camel</artifactId>
                 <version>${smallrye-reactive-messaging.version}</version>
             </dependency>
             <dependency>

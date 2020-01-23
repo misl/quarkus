@@ -612,6 +612,19 @@
             "description": "MQTT reactive messaging connector"
         },
         {
+            "name": "SmallRye Reactive Messaging - Camel Connector",
+            "metadata": {
+                "keywords": [
+                    "camel",
+                    "reactive-camel"
+                ]
+            },
+            "group-id": "io.quarkus",
+            "artifact-id": "quarkus-smallrye-reactive-messaging-camel",
+            "version": "999-SNAPSHOT",
+            "description": "Camel reactive messaging connector"
+        },
+        {
             "name": "SmallRye Metrics",
             "short-name": "metrics",
             "guide": "https://quarkus.io/guides/microprofile-metrics",

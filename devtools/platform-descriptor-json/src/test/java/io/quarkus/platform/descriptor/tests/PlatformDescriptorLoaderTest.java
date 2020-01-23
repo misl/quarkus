@@ -67,7 +67,7 @@ class PlatformDescriptorLoaderTest {
 
         assertNotNull(load);
 
-        assertEquals(85, load.getExtensions().size());
+        assertEquals(86, load.getExtensions().size());
 
         assertEquals(1, load.getCategories().size());
 
